@@ -1,6 +1,5 @@
 {
   "name": "client",
-  "homepage":"https://test-react-7akx.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
